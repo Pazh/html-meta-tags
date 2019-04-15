@@ -46,6 +46,21 @@
 <meta property="article:modified_time" content="2019-04-12T11:30:42-04:00" />
 <meta id="chorus-fonts" data-cid="site/font_loader-1555079452_874_9155" data-cdata='{"version":"d3a15f142bcd041806ec9275c9672d13","fonts_catalog":[{"slug":"unison-nitti","family":"nitti-grotesk","weight":"400","style":"normal","woff2_url":"https://cdn.vox-cdn.com/shared_fonts/unison/unison_base/nittigrotesk/nittigrotesk-normal.woff2","woff_url":"https://cdn.vox-cdn.com/shared_fonts/unison/unison_base/nittigrotesk/nittigrotesk-normal.woff"},{"slug":"verge-adelle-sans","family":"adelle-sans","weight":"400","style":"italic","woff2_url":"https://cdn.vox-cdn.com/shared_fonts/unison/verge/AdelleSans-Italic.woff2","woff_url":"https://cdn.vox-cdn.com/shared_fonts/unison/verge/AdelleSans-Italic.woff"},{"slug":"verge-adelle-sans","family":"adelle-sans","weight":"600","style":"normal","woff2_url":"https://cdn.vox-cdn.com/shared_fonts/unison/verge/AdelleSans-Semibold.woff2","woff_url":"https://cdn.vox-cdn.com/shared_fonts/unison/verge/AdelleSans-Semibold.woff"},{"slug":"verge-heroic","family":"Heroic","weight":"500","style":"italic","woff2_url":"https://cdn.vox-cdn.com/shared_fonts/unison/verge/heroic-cond-vrg-web-ltd-md-obq.woff2","woff_url":"https://cdn.vox-cdn.com/shared_fonts/unison/verge/heroic-cond-vrg-web-ltd-md-obq.woff"},{"slug":"verge-heroic","family":"Heroic","weight":"500","style":"normal","woff2_url":"https://cdn.vox-cdn.com/shared_fonts/unison/verge/heroic-cond-vrg-web-ltd-md.woff2","woff_url":"https://cdn.vox-cdn.com/shared_fonts/unison/verge/heroic-cond-vrg-web-ltd-md.woff"},{"slug":"verge-heroic","family":"Heroic","weight":"600","style":"italic","woff2_url":"https://cdn.vox-cdn.com/shared_fonts/unison/verge/heroic-cond-vrg-web-ltd-bd-obq.woff2","woff_url":"https://cdn.vox-cdn.com/shared_fonts/unison/verge/heroic-cond-vrg-web-ltd-bd-obq.woff"},{"slug":"verge-heroic","family":"Heroic","weight":"600","style":"normal","woff2_url":"https://cdn.vox-cdn.com/shared_fonts/unison/verge/heroic-cond-vrg-web-ltd-hvy.woff2","woff_url":"https://cdn.vox-cdn.com/shared_fonts/unison/verge/heroic-cond-vrg-web-ltd-hvy.woff"},{"slug":"verge-heroic","family":"Heroic","weight":"700","style":"normal","woff2_url":"https://cdn.vox-cdn.com/shared_fonts/unison/verge/heroic-cond-vrg-web-ltd-hvy.woff2","woff_url":"https://cdn.vox-cdn.com/shared_fonts/unison/verge/heroic-cond-vrg-web-ltd-hvy.woff"},{"slug":"verge-pathways","family":"Pathways","weight":"400","style":"normal","woff2_url":"https://cdn.vox-cdn.com/shared_fonts/unison/verge/pathways-normal-webfont.woff2","woff_url":"https://cdn.vox-cdn.com/shared_fonts/unison/verge/pathways-normal-webfont.woff"}],"font_stylesheets":["https://fonts.voxmedia.com/unison/stylesheets/verge.ccc871708379b713e3df3eb38e09e86b.css"],"font_tracker_stylesheets":[],"typekit_ids":[],"headline_balance_div_classes":"","headline_balance_fraction":1.0}'>
 
+<meta name="style-tools" content="https://www.theverge.com/style/community/372/f8505cde5b5eff7f0e90def14c0f984a/tools.css">
+<meta name="google-site-verification" content="IucFf_TKtbFFH8_YeFyEteQIwYPdANM1R46_U9DpAr4">
+<meta name="msvalidate.01" content="D385D0326A3AE144205C298DB34B4E94">
+<meta name="ahrefs-site-verification" content="1e57a609922037a3fbdc1c22efd7334113f174f15608f37e1b8538a7b4ce64c3">
+    <meta name="sailthru.title" content="You can get the original Google Pixel XL with 128GB of storage for just $250" />
+      <meta name="sailthru.tags" content="general,the-verge" />
+      <meta name="sailthru.date" content="2019-04-12" />
+      <meta name="sailthru.description" content="Google’s original Pixel XL is on sale for $250 at Woot this month, offering a bargain deal on a slightly old phone that still holds up fairly well. Woot is selling the Pixel XL with 128GB of storage, too, which is a configuration that sold for $869 when it debuted in October 2016." />
+    
+  <meta name="msapplication-TileImage" content="https://cdn.vox-cdn.com/uploads/chorus_asset/file/7396113/221a67c8-a10f-11e6-8fae-983107008690.0.png">
+  <meta name="msapplication-TileColor" content="#393092">
+  <meta name="theme-color" content="">
+    <meta data-chorus-version="ddbdd11a6a436cdfeff763d5c85bf49574a266fc" />
+    <meta name="outbrainsection" content="google"></meta>
+
 
 ```
 
