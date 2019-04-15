@@ -190,8 +190,4 @@ Use custom meta tags to store data that you need in javascript, instead of hard-
 
 ## Other Resources
 
-- [Dublic Core Meta Tags](http://www.seoconsultants.com/meta-tags/dublin/)
-- [Apple Meta Tags](http://developer.apple.com/safari/library/documentation/appleapplications/reference/safarihtmlref/articles/metatags.html)
 - [OpenGraph Meta Tags](http://opengraphprotocol.org/)
-- [Link Tag Meaning](http://intertwingly.net/wiki/pie/LinkTagMeaning)
-- [Google Chrome HTML5 Tags](http://www.html5rocks.com/)
