@@ -35,6 +35,8 @@
 <meta http-equiv="Expires" content="0">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Cache-Control" content="no-cache">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 ```
 
@@ -197,3 +199,38 @@ Use custom meta tags to store data that you need in javascript, instead of hard-
 ## Other Resources
 
 - [OpenGraph Meta Tags](http://opengraphprotocol.org/)
+
+
+
+
+
+    <link rel="preconnect" href="https://cdn.searchenginejournal.com" />
+    <link rel="preconnect" href="https://www.googletagservices.com" />
+    <link rel="preconnect" href="https://c.amazon-adsystem.com" />
+    <link rel="preconnect" href="https://aax.amazon-adsystem.com" />
+    <link rel="preconnect" href="https://adservice.google.com" />
+    <link rel="preconnect" href="https://tpc.googlesyndication.com" />
+    <link rel="preconnect" href="https://securepubads.g.doubleclick.net" />
+    <link rel="preconnect" href="https://pagead2.googlesyndication.com" />
+    <link rel="preconnect" href="https://pubads.g.doubleclick.net" />
+    <link rel="preconnect" href="https://www.google.com" />
+    <link rel="preconnect" href="https://ib.adnxs.com" />
+    <link rel="preconnect" href="https://ap.lijit.com" />
+    <link rel="preconnect" href="https://dmx.districtm.io" />
+    <link rel="preconnect" href="https://s3.amazonaws.com" />
+    <link rel="preconnect" href="https://hb.emxdgt.com" />
+    <link rel="preconnect" href="https://biddr.brealtime.com" />
+    <link rel="preconnect" href="https://web.hb.ad.cpe.dotomi.com" />
+    <link rel="preconnect" href="https://cdn.adnxs.com" />
+    <link rel="preconnect" href="https://lockerdome.com" />
+    <link rel="preconnect" href="https://vap2sfo1.lijit.com" />
+    <link rel="preconnect" href="https://a.teads.tv" />
+    <link rel="preconnect" href="https://g2.gumgum.com" />
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+    <link rel="preconnect" href="https://www.google-analytics.com" />
+    <link rel="preconnect" href="https://www.googletagservices.com" />
+    <link rel="preconnect" href="https://connect.facebook.net" />
+    <link rel="dns-prefetch" href="https://platform.twitter.com" />
+    <link rel="dns-prefetch" href="https://www.youtube.com" />
+    <link rel="preconnect" href="https://secure.quantserve.com" />
+    ????
