@@ -7,20 +7,20 @@
 <meta name="description" content="150 words"/>
 <meta name="subject" content="your website's subject">
 <meta name="copyright"content="company name">
-<meta name="language" content="ES">
+<meta name="language" content="FA">
 <meta name="robots" content="index,follow" />
 <meta name="revised" content="Sunday, July 18th, 2010, 5:15 pm" />
 <meta name="abstract" content="">
 <meta name="topic" content="">
 <meta name="summary" content="">
 <meta name="Classification" content="Business">
-<meta name="author" content="name, email@hotmail.com">
-<meta name="designer" content="">
+<meta name="author" content="name, webmaster@domain.com">
+<meta name="designer" content="Pazh Web Design">
 <meta name="copyright" content="">
-<meta name="reply-to" content="email@hotmail.com">
-<meta name="owner" content="">
-<meta name="url" content="http://www.websiteaddrress.com">
-<meta name="identifier-URL" content="http://www.websiteaddress.com">
+<meta name="reply-to" content="webmaster@domain.com">
+<meta name="owner" content="Company Name">
+<meta name="url" content="https://www.domain.com">
+<meta name="identifier-URL" content="https://www.domain.com">
 <meta name="directory" content="submission">
 <meta name="category" content="">
 <meta name="coverage" content="Worldwide">
@@ -42,33 +42,33 @@
 <meta name="og:site_name" content="IMDb"/>
 <meta name="og:description" content="A group of U.S. Marines, under command of..."/>
 
-<meta name="fb:page_id" content="43929265776" />
+<meta name="fb:page_id" content="123456789" />
 
-<meta name="og:email" content="me@example.com"/>
+<meta name="og:email" content="info@domain.com"/>
 <meta name="og:phone_number" content="650-123-4567"/>
 <meta name="og:fax_number" content="+1-415-123-4567"/>
 
 <meta name="og:latitude" content="37.416343"/>
-<meta name="og:longitude" content="-122.153013"/>
+<meta name="og:longitude" content="37.416343"/>
 <meta name="og:street-address" content="1601 S California Ave"/>
 <meta name="og:locality" content="Palo Alto"/>
-<meta name="og:region" content="CA"/>
-<meta name="og:postal-code" content="94304"/>
-<meta name="og:country-name" content="USA"/>
+<meta name="og:region" content="THR"/>
+<meta name="og:postal-code" content="9433234204"/>
+<meta name="og:country-name" content="IRAN"/>
 
 <meta property="og:type" content="game.achievement"/>
 <meta property="og:points" content="POINTS_FOR_ACHIEVEMENT"/>
 
-<meta property="og:video" content="http://example.com/awesome.swf" />
+<meta property="og:video" content="http://domain.com/awesome.swf" />
 <meta property="og:video:height" content="640" />
 <meta property="og:video:width" content="385" />
 <meta property="og:video:type" content="application/x-shockwave-flash" />
-<meta property="og:video" content="http://example.com/html5.mp4" />
+<meta property="og:video" content="http://domain.com/html5.mp4" />
 <meta property="og:video:type" content="video/mp4" />
-<meta property="og:video" content="http://example.com/fallback.vid" />
+<meta property="og:video" content="http://domain.com/fallback.vid" />
 <meta property="og:video:type" content="text/html" />
 
-<meta property="og:audio" content="http://example.com/amazing.mp3" />
+<meta property="og:audio" content="http://domain.com/amazing.mp3" />
 <meta property="og:audio:title" content="Amazing Song" />
 <meta property="og:audio:artist" content="Amazing Band" />
 <meta property="og:audio:album" content="Amazing Album" />
