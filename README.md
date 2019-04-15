@@ -3,6 +3,7 @@
 ## Basic HTML Meta Tags
 
 ``` html
+<meta name="title" content="company name" />
 <meta name="keywords" content="your, tags"/>
 <meta name="description" content="150 words"/>
 <meta name="subject" content="your website's subject">
@@ -16,6 +17,10 @@
 <meta name="Classification" content="Business">
 <meta name="author" content="name, webmaster@domain.com">
 <meta name="designer" content="Pazh Web Design">
+<meta name="Generator" content="Persian Plus - Brand (https://www.persian.plus)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="copyright" content="">
 <meta name="reply-to" content="webmaster@domain.com">
 <meta name="owner" content="Company Name">
@@ -30,6 +35,7 @@
 <meta http-equiv="Expires" content="0">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Cache-Control" content="no-cache">
+
 ```
 
 ## OpenGraph Meta Tags
