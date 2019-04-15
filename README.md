@@ -282,3 +282,106 @@ Use custom meta tags to store data that you need in javascript, instead of hard-
 <script type="application/ld+json">
     {"@context": "http://schema.org", "@graph": [{"contactPoint": [{"contactOption": "Toll-Free", "telephone": "+1-844-491-9665", "areaServed": ["US", "CA"], "contactType": "Customer Support", "@type": "ContactPoint", "availableLanguage": ["English", "Spanish"]}], "brand": {"url": "https://www.google.com/business/", "logo": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png", "@type": "Brand", "sameAs": ["https://twitter.com/Googlesmallbiz", "https://plus.google.com/+GoogleBusiness", "https://smallbusiness.googleblog.com/", "https://www.youtube.com/channel/UCDwLb8FClxNiMa7w6dCO7PQ", "https://www.facebook.com/GoogleSmallBiz/"], "name": "Google My Business"}, "@type": "Organization", "parentOrganization": {"name": "Google", "url": "https://www.google.com/", "sameAs": ["https://twitter.com/Google", "https://www.facebook.com/Google/", "https://www.youtube.com/user/Google", "https://www.linkedin.com/company/google", "https://en.wikipedia.org/wiki/Google", "https://www.wikidata.org/wiki/Q95"], "legalName": "Google LLC", "alternateName": ["Google LLC", "Google Inc."], "@type": "Corporation"}}, {"url": "https://www.google.com/business/", "description": "Your free Business Profile on Google My Business helps you reach and engage with local customers across Google Search and Maps.", "copyrightHolder": {"name": "Google", "url": "https://www.google.com/", "sameAs": ["https://twitter.com/Google", "https://www.facebook.com/Google/", "https://www.youtube.com/user/Google", "https://www.linkedin.com/company/google", "https://en.wikipedia.org/wiki/Google", "https://www.wikidata.org/wiki/Q95"], "legalName": "Google LLC", "logo": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_116x41dp.png", "alternateName": ["Google LLC", "Google Inc."], "@type": "Corporation"}, "@type": "WebSite", "name": "Google My Business"}, {"inLanguage": "English", "description": "Your free Business Profile on Google My Business helps you reach and engage with local customers across Google Search and Maps.", "author": {"name": "Google", "url": "https://www.google.com/", "sameAs": ["https://twitter.com/Google", "https://www.facebook.com/Google/", "https://www.youtube.com/user/Google", "https://www.linkedin.com/company/google", "https://en.wikipedia.org/wiki/Google", "https://www.wikidata.org/wiki/Q95"], "legalName": "Google LLC", "logo": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_116x41dp.png", "alternateName": ["Google LLC", "Google Inc."], "@type": "Corporation"}, "url": "https://www.google.com/business/", "image": {"url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png", "width": "456", "@type": "ImageObject", "height": "456"}, "headline": "Google My Business - Stand Out on Google for Free", "mainEntityOfPage": "https://www.google.com/business/", "@type": "Webpage", "name": "Google My Business"}, {"itemListElement": [{"position": "1", "@type": "ListItem", "item": {"@id": "https://www.google.com/business/", "name": "Google My Business"}}], "@type": "BreadcrumbList"}]}
     </script> ??
+
+
+
+
+
+
+
+
+    <link rel="preload" as="script" href="/dist/runtime-95cf4abc8d.js" />
+    <link rel="preload" as="script" href="/dist/vendor-54f32297cc.js" />
+    <link rel="preload" as="script" href="/dist/Article-70c18fa09c.js" />
+    <link rel="preload" as="script" href="/dist/client-202495ddc0.js" />
+    <link rel="preload" as="style" href="/dist/client-15e43d4608.css" />
+    <style data-href="/dist/client-15e43d4608.css"></style>
+    <link rel="preload" as="style" href="/dist/Article-edc6794cc5.css" />
+    <style data-href="/dist/Article-edc6794cc5.css"></style>
+    <link rel="preload" as="font" href="/public/fonts/MaisonNeue/MaisonNeue-Medium.woff2" />
+    <link rel="preload" as="font" href="/public/fonts/PT_Serif/PT_Serif-Web-Regular.woff2" />
+    <link rel="dns-prefetch" href="//cms.qz.com" />
+    <link rel="dns-prefetch" href="//ads.qz.com" />
+    <link rel="dns-prefetch" href="//api.keen.io" />
+    <link rel="dns-prefetch" href="//www.googletagmanager.com" />
+    <link rel="dns-prefetch" href="//www.googletagservices.com" />
+    <link rel="dns-prefetch" href="//securepubads.g.doubleclick.net" />
+    <link rel="dns-prefetch" href="//stats.g.doubleclick.net" />
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com" />
+    <meta data-rh="true" charset="utf-8" />
+    <meta data-rh="true" name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5" />
+    <meta data-rh="true" property="og:locale" content="en_US" />
+    <meta data-rh="true" name="application-name" content="Quartz" />
+    <meta data-rh="true" name="theme-color" content="#000000" />
+    <meta data-rh="true" name="apple-mobile-web-app-title" content="Quartz" />
+    <meta data-rh="true" name="apple-mobile-web-app-capable" content="yes" />
+    <meta data-rh="true" name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta data-rh="true" http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta data-rh="true" name="msapplication-window" content="width=1024;height=768" />
+    <meta data-rh="true" name="msapplication-tooltip" content="News, videos, ideas, and obsessions from the new global economy" />
+    <meta data-rh="true" name="msapplication-TileColor" content="#ffffff" />
+    <meta data-rh="true" name="msapplication-TileImage" content="https://cms.qz.com/wp-content/uploads/2018/07/quartz-icon.jpg?w=144&amp;h=144&amp;crop=1&amp;strip=all&amp;quality=75" />
+    <meta data-rh="true" name="msapplication-square70x70logo" content="https://cms.qz.com/wp-content/uploads/2018/07/quartz-icon.jpg?w=70&amp;h=70&amp;crop=1&amp;strip=all&amp;quality=75" />
+    <meta data-rh="true" name="msapplication-square150x150logo" content="https://cms.qz.com/wp-content/uploads/2018/07/quartz-icon.jpg?w=150&amp;h=150&amp;crop=1&amp;strip=all&amp;quality=75" />
+    <meta data-rh="true" name="msapplication-wide310x150logo" content="https://cms.qz.com/wp-content/uploads/2018/07/quartz-icon.jpg?w=310&amp;h=150&amp;crop=1&amp;strip=all&amp;quality=75" />
+    <meta data-rh="true" name="msapplication-square310x310logo" content="https://cms.qz.com/wp-content/uploads/2018/07/quartz-icon.jpg?w=310&amp;h=310&amp;crop=1&amp;strip=all&amp;quality=75" />
+    <meta data-rh="true" name="google-site-verification" content="PMxjYwLtMYRTziqxwX_i4UmRrsQNnDRLehhWzhVYKBA" />
+    <meta data-rh="true" name="news_keywords" content="cloud ai,google cloud next,Andrew Moore,Google Cloud,edited by Mike Murphy,machine learning,Google" />
+    <meta data-rh="true" property="article:publisher" content="https://www.facebook.com/quartznews" />
+    <meta data-rh="true" property="author" content="Dave Gershgorn" />
+    <meta data-rh="true" property="og:description" content="”It’s very much more for us about making artificial intelligence safely usable, and less about inventing brand new technology,” says Google Cloud’s AI head." />
+    <meta data-rh="true" property="og:image" content="https://cms.qz.com/wp-content/uploads/2019/04/3316EA0C-4BF2-43F0-9759-4305D52F6518.jpeg?quality=75&amp;strip=all&amp;w=1400" />
+    <meta data-rh="true" property="og:title" content="Google’s AI is growing up" />
+    <meta data-rh="true" property="og:type" content="article" />
+    <meta data-rh="true" property="og:url" content="https://qz.com/1593121/googles-cloud-ai-head-says-were-in-a-new-era-of-ai-for-business/" />
+    <meta data-rh="true" property="og:site_name" content="Quartz" />
+    <meta data-rh="true" name="twitter:card" content="summary_large_image" />
+    <meta data-rh="true" name="twitter:creator" content="@davegershgorn" />
+    <meta data-rh="true" name="twitter:image" content="https://cms.qz.com/wp-content/uploads/2019/04/3316EA0C-4BF2-43F0-9759-4305D52F6518.jpeg?quality=75&amp;strip=all&amp;w=1400" />
+    <meta data-rh="true" name="twitter:site" content="@qz" />
+    <meta data-rh="true" name="twitter:url" content="https://qz.com/1593121/googles-cloud-ai-head-says-were-in-a-new-era-of-ai-for-business/" />
+    <meta data-rh="true" name="description" content="”It’s very much more for us about making artificial intelligence safely usable, and less about inventing brand new technology,” says Google Cloud’s AI head." />
+    <link data-rh="true" rel="icon" href="/public/images/favicon.ico" />
+    <link data-rh="true" rel="manifest" href="/public/meta/manifest.json" />
+    <link data-rh="true" type="application/opensearchdescription+xml" rel="search" href="/public/meta/opensearch.xml" />
+    <link data-rh="true" rel="apple-touch-startup-image" href="https://cms.qz.com/wp-content/uploads/2018/07/quartz-icon.jpg" />
+    <link data-rh="true" rel="apple-touch-icon" href="https://cms.qz.com/wp-content/uploads/2018/07/quartz-icon.jpg" />
+    <link data-rh="true" rel="apple-touch-icon" sizes="120x120" href="https://cms.qz.com/wp-content/uploads/2018/07/quartz-icon.jpg?w=120&amp;h=120&amp;crop=1&amp;strip=all&amp;quality=75" />
+    <link data-rh="true" rel="apple-touch-icon" sizes="180x180" href="https://cms.qz.com/wp-content/uploads/2018/07/quartz-icon.jpg?w=180&amp;h=180&amp;crop=1&amp;strip=all&amp;quality=75" />
+    <link data-rh="true" rel="apple-touch-icon" sizes="167x167" href="https://cms.qz.com/wp-content/uploads/2018/07/quartz-icon.jpg?w=167&amp;h=167&amp;crop=1&amp;strip=all&amp;quality=75" />
+    <link data-rh="true" rel="canonical" href="https://qz.com/1593121/googles-cloud-ai-head-says-were-in-a-new-era-of-ai-for-business/" />
+    <link data-rh="true" rel="amphtml" href="https://qz.com/1593121/googles-cloud-ai-head-says-were-in-a-new-era-of-ai-for-business/amp/" />
+    <meta data-rh="true" charset="utf-8" />
+    <meta data-rh="true" name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5" />
+    <meta data-rh="true" property="og:locale" content="en_US" />
+    <meta data-rh="true" name="application-name" content="Quartz" />
+    <meta data-rh="true" name="theme-color" content="#000000" />
+    <meta data-rh="true" name="apple-mobile-web-app-title" content="Quartz" />
+    <meta data-rh="true" name="apple-mobile-web-app-capable" content="yes" />
+    <meta data-rh="true" name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta data-rh="true" http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta data-rh="true" name="msapplication-window" content="width=1024;height=768" />
+    <meta data-rh="true" name="msapplication-tooltip" content="News, videos, ideas, and obsessions from the new global economy" />
+    <meta data-rh="true" name="msapplication-TileColor" content="#ffffff" />
+    <meta data-rh="true" name="msapplication-TileImage" content="https://cms.qz.com/wp-content/uploads/2018/07/quartz-icon.jpg?w=144&amp;h=144&amp;crop=1&amp;strip=all&amp;quality=75" />
+    <meta data-rh="true" name="msapplication-square70x70logo" content="https://cms.qz.com/wp-content/uploads/2018/07/quartz-icon.jpg?w=70&amp;h=70&amp;crop=1&amp;strip=all&amp;quality=75" />
+    <meta data-rh="true" name="msapplication-square150x150logo" content="https://cms.qz.com/wp-content/uploads/2018/07/quartz-icon.jpg?w=150&amp;h=150&amp;crop=1&amp;strip=all&amp;quality=75" />
+    <meta data-rh="true" name="msapplication-wide310x150logo" content="https://cms.qz.com/wp-content/uploads/2018/07/quartz-icon.jpg?w=310&amp;h=150&amp;crop=1&amp;strip=all&amp;quality=75" />
+    <meta data-rh="true" name="msapplication-square310x310logo" content="https://cms.qz.com/wp-content/uploads/2018/07/quartz-icon.jpg?w=310&amp;h=310&amp;crop=1&amp;strip=all&amp;quality=75" />
+    <meta data-rh="true" name="google-site-verification" content="PMxjYwLtMYRTziqxwX_i4UmRrsQNnDRLehhWzhVYKBA" />
+    <meta data-rh="true" name="news_keywords" content="cloud ai,google cloud next,Andrew Moore,Google Cloud,edited by Mike Murphy,machine learning,Google" />
+    <meta data-rh="true" property="article:publisher" content="https://www.facebook.com/quartznews" />
+    <meta data-rh="true" property="author" content="Dave Gershgorn" />
+    <meta data-rh="true" property="og:description" content="”It’s very much more for us about making artificial intelligence safely usable, and less about inventing brand new technology,” says Google Cloud’s AI head." />
+    <meta data-rh="true" property="og:image" content="https://cms.qz.com/wp-content/uploads/2019/04/3316EA0C-4BF2-43F0-9759-4305D52F6518.jpeg?quality=75&amp;strip=all&amp;w=1400" />
+    <meta data-rh="true" property="og:title" content="Google’s AI is growing up" />
+    <meta data-rh="true" property="og:type" content="article" />
+    <meta data-rh="true" property="og:url" content="https://qz.com/1593121/googles-cloud-ai-head-says-were-in-a-new-era-of-ai-for-business/" />
+    <meta data-rh="true" property="og:site_name" content="Quartz" />
+    <meta data-rh="true" name="twitter:card" content="summary_large_image" />
+    <meta data-rh="true" name="twitter:creator" content="@davegershgorn" />
+    <meta data-rh="true" name="twitter:image" content="https://cms.qz.com/wp-content/uploads/2019/04/3316EA0C-4BF2-43F0-9759-4305D52F6518.jpeg?quality=75&amp;strip=all&amp;w=1400" />
+    <meta data-rh="true" name="twitter:site" content="@qz" />
+    <meta data-rh="true" name="twitter:url" content="https://qz.com/1593121/googles-cloud-ai-head-says-were-in-a-new-era-of-ai-for-business/" />
+    <meta data-rh="true" name="description" content="”It’s very much more for us about making artificial intelligence safely usable, and less about inventing brand new technology,” says Google Cloud’s AI head." />
+    <title data-rh="true">Google’s Cloud AI head says we’re in a new era of AI for business — Quartz</title>
